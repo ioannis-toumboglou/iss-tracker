@@ -1,8 +1,8 @@
-"#iss-tracker"
-
+An application that tracks the International Space Station in real time.
+<br>
 Requirements:
 
-Install the ISS Info package
-<c>pip install ISS_Info</c>
+Install the ISS Info package<br>
+<code>pip install ISS_Info</code>
 
 For more information, please visit: https://pypi.org/project/ISS-Info/
