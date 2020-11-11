@@ -1,4 +1,4 @@
-An application that tracks the International Space Station in real time.
+An application that tracks position of the International Space Station in real time.
 <br>
 <br>
 <b>Requirements:</b>
