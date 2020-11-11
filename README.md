@@ -1,4 +1,4 @@
-An application that tracks position of the International Space Station in real time.
+An application that tracks the International Space Station in real time.
 <br>
 <br>
 <b>Requirements:</b>
@@ -8,3 +8,6 @@ Install the ISS Info package<br>
 <br>
 <br>
 For more information, please visit: https://pypi.org/project/ISS-Info/
+<br>
+<br>
+![Optional Text](../main/images/screenshot.png)
