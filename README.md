@@ -10,4 +10,9 @@ Install the ISS Info package<br>
 For more information, please visit: https://pypi.org/project/ISS-Info/
 <br>
 <br>
-![Optional Text](../main/images/screenshot.png)
+<p align="center">
+  <img src="./images/screenshot.png" />
+</p>
+<p align="center">
+  <b>Sample image</b>
+</p>
